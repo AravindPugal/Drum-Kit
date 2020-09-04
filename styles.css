@@ -83,3 +83,6 @@ footer {
   font-family: 'Lexend Peta', sans-serif;
   opacity: 0.3;
 }
+@media only screen and (max-width:480px){
+   width:40%;
+}
