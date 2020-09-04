@@ -83,7 +83,7 @@ footer {
   font-family: 'Lexend Peta', sans-serif;
   opacity: 0.3;
 }
-@media only screen and (max-width:480px){
+@media (max-width:480px){
    .drum{
      width:100%;
   }
