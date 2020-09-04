@@ -84,5 +84,7 @@ footer {
   opacity: 0.3;
 }
 @media only screen and (max-width:480px){
-   width:100%;
+   .drum{
+     width:100%;
+  }
 }
